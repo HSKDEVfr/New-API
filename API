@@ -1,0 +1,18 @@
+[
+Type = "Important"
+Name = "down time"
+Info = "This Site will be closed a the 10.10 at 20 o clock for maintenace Europe time and will be open again at 22 o clock Europe time"
+Color = "Rot"
+]
+
+[
+Type = "News"
+Name = "New Script"
+Info = "our brand new Bike of Hell Script is here,test it now by joining our community"
+]
+
+[
+Type = "Update"
+Name = "Bike Of hell"
+Info = "Features: Auto Win,Fly and Fly speed Ban risk: No risk at the Moment!"
+]
