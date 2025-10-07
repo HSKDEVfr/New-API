@@ -12,6 +12,12 @@ Info = "our brand new Bike of Hell Script is here,test it now by joining our com
 ]
 
 [
+Type = "News"
+Name = "Website"
+Info = "We just made our new Website !"
+]
+
+[
 Type = "Update"
 Name = "Bike Of hell"
 Info = "Features: Auto Win,Fly and Fly speed Ban risk: No risk at the Moment!"
