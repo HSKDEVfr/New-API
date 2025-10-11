@@ -1,8 +1,8 @@
 [
 Type = "Important"
-Name = "down time"
-Info = "This Site will be closed a the 10.10 at 20 o clock for maintenace Europe time and will be open again at 22 o clock Europe time"
-Color = "Rot"
+Name = "No planned down time"
+Info = "Unfilled box"
+Color = "Gelb"
 ]
 
 [
